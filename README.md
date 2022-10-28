@@ -1,4 +1,4 @@
-# WebRTC-picture-booth
+# WebRTC-webcam-profil-picture
 Use the camera of your laptop or mobile device to take a picture.
 
 You can also upload an image file.
